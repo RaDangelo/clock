@@ -1,0 +1,19 @@
+.clock {
+    background-color: bisque;
+    border-radius: 4px;
+    padding:8px;
+    text-align: center;
+}
+
+.clock-container {
+    text-align: center;
+    height: 50px;
+    width: 300px;
+    border: 10px groove cadetblue;
+    padding: 6px;
+    font-size: 30px;
+    display: inline-grid;
+    left: 40%;
+    top: 20%;
+    position: relative;
+}
